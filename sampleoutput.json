@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Katherine Faulders, Aaron Katersky, Peter Charalambous",
+        "title": "Trump's lawyers push for recusal of Judge Juan Merchan in hush money case - ABC News",
+        "description": "Defense lawyers want him tossed due to his daughter's political consulting work.",
+        "url": "https://abcnews.go.com/US/trumps-lawyers-push-recusal-judge-juan-merchan-hush/story?id=108748916",
+        "urlToImage": "https://i.abcnewsfe.com/a/5b92b012-c526-4fdf-9a09-b5f5e6d9e16b/trump1-gty-file-ml-240402_1712064868572_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-04-03T02:55:11Z",
+        "content": "Donald Trump's lawyers are again asking Judge Juan Merchan to recuse himself from the former president's New York hush money trial, seven months after the judge declined a similar request by defense … [+4657 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Leah Sarnoff",
+        "title": "Why April's total solar eclipse will be a historic event in the US - ABC News",
+        "description": "The next total solar eclipse in the contiguous U.S. won't be until August 2044.",
+        "url": "https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119",
+        "urlToImage": "https://i.abcnewsfe.com/a/5e72619b-c1b8-4ade-95b9-8680d152034d/annular-eclipse-1-gty-gmh-231002_1696279875713_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-04-03T02:55:11Z",
+        "content": "\"Eclipse Across America,\" will air live Monday, April 8, beginning at 2 p.m. ET on ABC, ABC News Live, National Geographic Channel, Nat Geo WILD, Disney+ and Hulu as well as network social media plat… [+4121 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Molly Nagle, Selina Wang, Justin Gomez",
+        "title": "Biden speaks with Chinese President Xi Jinping - ABC News",
+        "description": "The two leaders last met in November 2023 in California.",
+        "url": "https://abcnews.go.com/Politics/biden-speaks-chinese-president-xi-jinping/story?id=108752447",
+        "urlToImage": "https://i.abcnewsfe.com/a/8a26e426-2e48-47ea-b282-e059a019f0af/biden-xi-ap-jt-240402_1712072453566_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-04-02T17:48:45Z",
+        "content": "President Joe Biden spoke on the phone Tuesday with Chinese President Xi Jinping, their first conversation since meeting last November in California.\r\nThe two leaders were set to speak about climate … [+3461 chars]"
+      }
+    ]
+}
