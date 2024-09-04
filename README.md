@@ -1,3 +1,16 @@
+## News App Implementations
+
+This repository contains two versions of the news app:
+
+1. **Class-Based Components** (available in the `main` branch):
+   - The original version of the app, implemented using React class-based components.
+
+2. **Function-Based Components** (available in the `feature/function-based-components` branch):
+   - The updated version, converted to use React function-based components with hooks.
+
+### Purpose
+The purpose of this repository is to showcase both approaches to building a React application, demonstrating versatility and proficiency in using different component structures.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
