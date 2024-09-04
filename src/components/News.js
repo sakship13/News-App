@@ -10,7 +10,7 @@ const News =(props)=>{
       const [page,setPage]=useState(1);
       const [loading,setLoading]=useState(true);
       const [totalResults,setTotalResults]=useState(0);
-      // document.title=`${capitalizeFirstLetter(props.category)}-NewsMonkey`;
+     
         const capitalizeFirstLetter=(string)=> {
           return string.charAt(0).toUpperCase() + string.slice(1);
       }
@@ -37,7 +37,9 @@ const News =(props)=>{
    props.setProgress(100)
   }
   useEffect(()=>{
+    document.title=`${capitalizeFirstLetter(props.category)}-NewsMonkey`;
     updateNews();
+   
   },[])
   
   
