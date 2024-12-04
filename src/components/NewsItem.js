@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export class NewsItem extends Component {
-  render() {
-    let {title,description,imageUrl,newsUrl,author,date,source,category} = this.props;
+const NewsItem =(props)=> {
+ 
+    let {title,description,imageUrl,newsUrl,author,date,source,category} = props;
     const defaultImages = {
       general: "https://via.placeholder.com/1200x675?text=General+News",
       business: "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG5ld3N8ZW58MHx8MHx8fDA%3D",
@@ -37,7 +37,7 @@ export class NewsItem extends Component {
          </div>
       </div>
     )
-  }
+ 
 }
 
 export default NewsItem
